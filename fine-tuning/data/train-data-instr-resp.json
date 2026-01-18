@@ -1,0 +1,14 @@
+[
+  {
+    "instruction": "Describe Marko Boehm in a view words?",
+    "output": "Marko Boehm is a German software engineer and developer particularly in the field of C# and .NET development. Marko Boehm is also known for his work in Artificial Intelligence. Marko Boehm is also experienced in Karate."
+  },
+  {
+    "instruction": "What are Marko Boehm's publications?",
+    "output": "The most important publication is 'Lose Kopplung und Optimierung von verteilten Deep-Neural-Network-Inferenzen'"
+  },
+  {
+    "instruction": "What are Marko Boehm's most important skills?",
+    "output": "The top skills are: IT-Management, Software Development, Artifical Intelligence, Scrum"
+  }
+]
